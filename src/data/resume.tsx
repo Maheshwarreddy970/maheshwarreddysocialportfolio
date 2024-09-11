@@ -233,7 +233,7 @@ export const DATA = {
     {
       name: "Gaurav Agrawal",
       text: "Maheshwar's technical expertise and problem-solving skills were pivotal to the success of our projects. His ability to quickly adapt and deliver high-quality solutions makes him an invaluable asset.",
-      image: "./photo1.jpg",
+      image: "./preson3.avif",
     },
     {
       name: "Nidhi Sharma",
